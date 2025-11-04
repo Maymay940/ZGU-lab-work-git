@@ -14,7 +14,7 @@
 
 ###### \Клонирование репозитория
 
-###### git clone https://github.com/ваш-логин/ZGU-lab-work-git.git
+###### git clone https://github.com/Maymay940/ZGU-lab-work-git.git
 
 ###### 
 
